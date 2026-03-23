@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;SQL+%7C+Power+BI+Expert;Machine+Learning+Enthusiast;Future+AI+Engineer;Gen+AI+Explorer&center=true&width=600&height=50&color=FF00FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;SQL+%7C+Power+BI+Expert;Machine+Learning+Enthusiast;Future+AI+Engineer;Gen+AI+Explorer&center=true&width=600&height=50&color=7A6F6F&vCenter=true&size=22">
 </p>
 
 ---
