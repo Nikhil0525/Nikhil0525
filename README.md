@@ -2,7 +2,11 @@
 <h3 align="center">🚀 Data Analyst | SQL | Power BI | Python | Machine Learning | Gen AI | Tableau | Excel | NLP</h3>
 
 <p align="center">
-  💭 <i>"Turning data into decisions 🚀"</i>
+  💭 <i>"Turning data into decisions 📈 "</i>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikhil0525&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
