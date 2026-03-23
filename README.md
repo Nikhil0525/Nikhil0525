@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikhil0525&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<h1 align="center">Hi 👋, I'm Sai Nikhil</h1>
 <h3 align="center">🚀 Data Analyst | SQL | Power BI | Python | Machine Learning | Gen AI | Tableau | Excel | NLP</h3>
 
 <p align="center">
@@ -10,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;SQL+%7C+Power+BI+Expert;Machine+Learning+Enthusiast;Future+AI+Engineer;Gen+AI+Explorer&center=true&width=600&height=50&color=00F7FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;SQL+%7C+Power+BI+Expert;Machine+Learning+Enthusiast;Future+AI+Engineer;Gen+AI+Explorer&center=true&width=600&height=50&color=FF00FF&vCenter=true&size=22">
 </p>
 
 ---
