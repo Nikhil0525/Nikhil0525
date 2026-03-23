@@ -22,6 +22,10 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=100&section=footer"/>
+
+---
+
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
