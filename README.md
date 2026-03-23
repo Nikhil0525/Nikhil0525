@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Nikhil</h1>
-<h3 align="center">🚀 Data Analyst | SQL | Power BI | Python | ML Enthusiast</h3> | Tableau | Excel | NLP | GEN AI  ## 💭 Quote
-> "Turning data into decisions 🚀"
+<h3 align="center">🚀 Data Analyst | SQL | Power BI | Python | ML Enthusiast | Tableau | Excel | NLP | GEN AI   💭 Quote
+> "Turning data into decisions 🚀"</h3> 
 
 ---
 
