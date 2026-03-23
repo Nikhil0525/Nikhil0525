@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sai Nikhil</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nikhil0525&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 <h3 align="center">🚀 Data Analyst | SQL | Power BI | Python | Machine Learning | Gen AI | Tableau | Excel | NLP</h3>
 
 <p align="center">
@@ -18,7 +20,7 @@
 - 📊 Passionate about Data Analysis & Visualization  
 - 🤖 Exploring Machine Learning & Gen AI  
 - 💡 Love solving real-world business problems  
-- ⚡ Goal: Become Data Scientist / AI Engineer  
+- ⚡ Goal: Become Data Analyst, Data Scientist / AI Engineer  
 
 ---
 
